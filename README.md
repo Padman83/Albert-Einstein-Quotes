@@ -1,2 +1,11 @@
-﻿# Albert-Einstein-Quotes
-A Web App is written in Vanilla JavaScript and Bootstrap Framework.
+## About The Project
+Albert Einstein Wisdom Quotes.
+
+## Inspired by innovation and ingenuity
+* [Bootstrap] (https://getbootstrap.com)
+* [jQuery] (https://https://jquery.com)
+* [cdnjs] (https://cdnjs.com)
+
+## Contact 
+
+Project Link: [https://github.com/Padman83/Albert-Einstein-Quotes] (https://github.com/Padman83/Albert-Einstein-Quotes)
