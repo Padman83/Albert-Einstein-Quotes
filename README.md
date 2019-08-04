@@ -1,5 +1,5 @@
 ## About The Project
-Albert Einstein Wisdom Quotes.
+Albert Einstein Wisdom Quotes App.
 
 ## Inspired by innovation and ingenuity
 * [Bootstrap] (https://getbootstrap.com)
