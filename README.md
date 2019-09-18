@@ -5,6 +5,9 @@ Albert Einstein Wisdom Quotes App.
 
 ## Inspired by innovation and ingenuity.
 
+### Code Editor
+* [Visual Studio Code] (https://code.visualstudio.com)
+
 ## Built with
 * [Bootstrap] (https://getbootstrap.com)
 * [jQuery] (https://https://jquery.com)
@@ -12,4 +15,4 @@ Albert Einstein Wisdom Quotes App.
 
 ## Contact
 
-Project Link: [https://github.com/Padman83/Albert-Einstein-Quotes] (https://github.com/Padman83/Albert-Einstein-Quotes)
+Project Link: [https://github.com/Padman83/Albert-Einstein-Quotes]
