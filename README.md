@@ -12,6 +12,7 @@ Albert Einstein Wisdom Quotes App.
 * [Bootstrap] (https://getbootstrap.com)
 * [jQuery] (https://https://jquery.com)
 * [cdnjs] (https://cdnjs.com)
+* [Google Fonts] (https://fonts.google.com)
 
 ## Contact
 
