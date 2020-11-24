@@ -1,6 +1,6 @@
-![screencapture-padman83-github-io-Albert-Einstein-Quotes-2019-08-06-20_53_27](https://user-images.githubusercontent.com/45048950/62707702-6b1a8580-ba24-11e9-8135-80e99ef0b4bf.png)
+![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/100122574-7e20c580-2eb4-11eb-8caa-c5481343f6b1.gif)
 
-## 🧰 System Requirements + 🛠️ Built With:
+### 🧰 System Requirements + 🛠️ Built With:
 
 * Cross-Platform
 * [Visual Studio Code] (https://code.visualstudio.com)
