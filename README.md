@@ -8,7 +8,3 @@
 * [jQuery] (https://https://jquery.com)
 * [cdnjs] (https://cdnjs.com)
 * [Google Fonts] (https://fonts.google.com)
-
-### 🔗 Links:
-
-* [https://github.com/Padman83/Albert-Einstein-Quotes]
